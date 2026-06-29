@@ -1,0 +1,33 @@
+# Portfolio Project Task List
+
+- [x] Generate creative gallery assets using AI
+  - [x] `talent_perfume_creative.png` (Luxury perfume ad mockup)
+  - [x] `jinus_academy_ad.png` (Nursing academy ad mockup)
+  - [x] `meta_ads_dashboard.png` (Sleek ads analytics dashboard mockup)
+- [x] Create HTML structure (`index.html`)
+  - [x] Sticky navbar & responsive header
+  - [x] Hero section with profile image & metrics
+  - [x] About section with tech + marketing integration
+  - [x] Skills grid
+  - [x] Timeline-based Experience section
+  - [x] Filterable Projects / Case Studies section
+  - [x] Searchable & filterable Certifications section
+  - [x] Lightbox-enabled Creative Gallery
+  - [x] Dynamic Contact Form & footer
+- [x] Implement CSS styling (`styles.css`)
+  - [x] Modern typography and base reset
+  - [x] Custom CSS variables for light & dark themes
+  - [x] Responsive layouts (Flexbox & Grid)
+  - [x] Premium card hover designs, gradients, and glow effects
+  - [x] Transitions, keyframes, and scroll animations
+- [x] Add JavaScript logic (`script.js`)
+  - [x] Dark/Light mode toggle with `localStorage`
+  - [x] Project & Case Studies tab filter
+  - [x] Certification search and filter tabs
+  - [x] Scroll animations (fade-in, slide-in via IntersectionObserver)
+  - [x] Lightbox popup modal for the gallery images
+  - [x] Contact form submission handler & toast notification
+- [x] Verification & Polish
+  - [x] Inspect visual alignment and layout responsiveness
+  - [x] Test all JavaScript interactions
+  - [x] Generate `walkthrough.md` with details

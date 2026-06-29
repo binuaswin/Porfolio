@@ -1,0 +1,323 @@
+ INFO  Accepting connections at http://localhost:3000
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 175 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /styles.css?v=3
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /jinus_academy_logo.png
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /Profile.jpeg
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 28 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 68 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 97 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /talent_perfume_logo.png
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /meta_ads_manager_dashboard.jpg
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /talent_perfume_creative.png
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /dental_clinic_ad.jpg
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /script.js
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /jinus_academy_ad.png
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 52 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 27 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 18 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 32 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /fitness_club_ad.jpg
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /mango_pickle_ad.jpg
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /jinus_academy_malayalam_ad.jpg
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /niks_salon_ad.jpg
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 108 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 113 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 67 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 70 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 82 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 79 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /talent_perfume_legend_amber.jpg
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /talent_perfume_legend_green.jpg
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /talent_perfume_combo_offer.jpg
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /talent_perfume_premium_combo.jpg
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /talent_perfume_packaging.jpg
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /talent_perfume_caramel_pop.jpg
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 71 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 68 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 71 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 48 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 43 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 32 ms
+ HTTP  29/6/2026 9:02:23 pm ::1 GET /talent_perfume_ultra_ad.jpg
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /talent_perfume_legend_ad.jpg
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /talent_perfume_malayalam_spray.jpg
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /talent_perfume_kalabham_ad.jpg
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /talent_perfume_ultra_blue.jpg
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /talent_perfume_ultra_red.jpg
+ HTTP  29/6/2026 9:02:23 pm ::1 Returned 200 in 182 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 171 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 81 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 83 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 106 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /talent_perfume_seduction.jpg
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 108 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /talent_perfume_men_collection.jpg
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /jinus_learning_book_performance.jpg
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /brainster_studio_ad.png
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /god_of_detailing_mud_ad.jpg
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 64 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 36 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /god_of_detailing_wash_ad.jpg
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 106 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /pro_glaze_car_ad.jpg
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /pro_glaze_logo.png
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 83 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 105 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 120 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 89 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /right_properties_dream_home.jpg
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 123 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /right_properties_mediterranean.jpg
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /right_properties_luxe_homes.jpg
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /right_properties_logo.jpg
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /right_properties_family.jpg
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /la_florale_fusion.jpg
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 85 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 93 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 106 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 87 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 128 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 200 in 103 ms
+ HTTP  29/6/2026 9:02:24 pm ::1 GET /favicon.ico
+ HTTP  29/6/2026 9:02:24 pm ::1 Returned 404 in 53 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 8 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /styles.css?v=3
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /jinus_academy_logo.png
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /Profile.jpeg
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 2 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 1 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 200 in 10 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /talent_perfume_logo.png
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /meta_ads_manager_dashboard.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 1 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 14 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /talent_perfume_creative.png
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /script.js
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /jinus_academy_ad.png
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 17 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 15 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /dental_clinic_ad.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /mango_pickle_ad.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 17 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 26 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /fitness_club_ad.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /jinus_academy_malayalam_ad.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /niks_salon_ad.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 22 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 7 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 16 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /talent_perfume_legend_amber.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /talent_perfume_legend_green.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 23 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 18 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /talent_perfume_combo_offer.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /talent_perfume_premium_combo.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /talent_perfume_packaging.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 30 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 14 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 15 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /talent_perfume_caramel_pop.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /la_florale_fusion.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 26 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 10 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /talent_perfume_ultra_ad.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /talent_perfume_legend_ad.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /talent_perfume_malayalam_spray.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 28 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 17 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 20 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /talent_perfume_kalabham_ad.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /talent_perfume_ultra_blue.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 32 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 13 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /talent_perfume_ultra_red.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /talent_perfume_seduction.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /talent_perfume_men_collection.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 26 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 21 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 46 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /jinus_learning_book_performance.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /brainster_studio_ad.png
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 46 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 10 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 15 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /god_of_detailing_mud_ad.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /god_of_detailing_wash_ad.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /pro_glaze_car_ad.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 12 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 14 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /pro_glaze_logo.png
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /right_properties_dream_home.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /right_properties_mediterranean.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 29 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 19 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 17 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /right_properties_luxe_homes.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /right_properties_logo.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 22 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 7 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 6 ms
+ HTTP  29/6/2026 9:06:14 pm ::1 GET /right_properties_family.jpg
+ HTTP  29/6/2026 9:06:14 pm ::1 Returned 304 in 5 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 1 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /styles.css?v=3
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 2 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /jinus_academy_logo.png
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /Profile.jpeg
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 2 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 22 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /talent_perfume_logo.png
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 1 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /meta_ads_manager_dashboard.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /talent_perfume_creative.png
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 2 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 1 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /dental_clinic_ad.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /script.js
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /jinus_academy_ad.png
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 6 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 6 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 6 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /mango_pickle_ad.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /fitness_club_ad.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /jinus_academy_malayalam_ad.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /niks_salon_ad.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /talent_perfume_legend_amber.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 14 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 8 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 8 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 9 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 11 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /talent_perfume_legend_green.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /talent_perfume_combo_offer.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 6 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 2 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /talent_perfume_premium_combo.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /talent_perfume_packaging.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /talent_perfume_caramel_pop.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /talent_perfume_ultra_ad.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 15 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 10 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 7 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 12 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /talent_perfume_legend_ad.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /talent_perfume_malayalam_spray.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 10 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /talent_perfume_kalabham_ad.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /talent_perfume_ultra_blue.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /talent_perfume_ultra_red.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 7 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 10 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 7 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /talent_perfume_seduction.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 8 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 9 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /talent_perfume_men_collection.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 13 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /jinus_learning_book_performance.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /brainster_studio_ad.png
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /god_of_detailing_mud_ad.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /god_of_detailing_wash_ad.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 10 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 10 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 9 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 15 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /pro_glaze_car_ad.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /pro_glaze_logo.png
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 5 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /right_properties_dream_home.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /right_properties_mediterranean.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /right_properties_luxe_homes.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 10 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 7 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 14 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /right_properties_logo.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 13 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /right_properties_family.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 3 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 GET /la_florale_fusion.jpg
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 1 ms
+ HTTP  29/6/2026 9:06:27 pm ::1 Returned 304 in 15 ms
+ HTTP  29/6/2026 9:09:28 pm ::1 GET /
+ HTTP  29/6/2026 9:09:28 pm ::1 Returned 304 in 3 ms
+ HTTP  29/6/2026 9:09:28 pm ::1 GET /styles.css?v=3
+ HTTP  29/6/2026 9:09:28 pm ::1 GET /Profile.jpeg
+ HTTP  29/6/2026 9:09:28 pm ::1 Returned 304 in 9 ms
+ HTTP  29/6/2026 9:09:28 pm ::1 Returned 304 in 6 ms
+ HTTP  29/6/2026 9:09:28 pm ::1 GET /jinus_academy_logo.png
+ HTTP  29/6/2026 9:09:28 pm ::1 Returned 304 in 4 ms
+ HTTP  29/6/2026 9:09:28 pm ::1 GET /talent_perfume_logo.png
+ HTTP  29/6/2026 9:09:28 pm ::1 GET /meta_ads_manager_dashboard.jpg
+ HTTP  29/6/2026 9:09:28 pm ::1 Returned 304 in 1 ms
+ HTTP  29/6/2026 9:09:28 pm ::1 Returned 304 in 2 ms
+ HTTP  29/6/2026 9:09:28 pm ::1 GET /talent_perfume_creative.png
+ HTTP  29/6/2026 9:09:28 pm ::1 GET /script.js
+ HTTP  29/6/2026 9:09:28 pm ::1 Returned 304 in 7 ms
+ HTTP  29/6/2026 9:09:28 pm ::1 GET /jinus_academy_ad.png
+ HTTP  29/6/2026 9:09:28 pm ::1 GET /dental_clinic_ad.jpg
+ HTTP  29/6/2026 9:09:28 pm ::1 Returned 304 in 8 ms
+ HTTP  29/6/2026 9:09:28 pm ::1 Returned 304 in 6 ms
+ HTTP  29/6/2026 9:09:28 pm ::1 Returned 304 in 18 ms
+ HTTP  29/6/2026 9:09:28 pm ::1 GET /mango_pickle_ad.jpg
+ HTTP  29/6/2026 9:09:28 pm ::1 GET /fitness_club_ad.jpg
+ HTTP  29/6/2026 9:09:28 pm ::1 GET /jinus_academy_malayalam_ad.jpg
+ HTTP  29/6/2026 9:09:28 pm ::1 Returned 304 in 9 ms
+ HTTP  29/6/2026 9:09:28 pm ::1 Returned 304 in 15 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /niks_salon_ad.jpg
+ HTTP  29/6/2026 9:09:28 pm ::1 Returned 304 in 14 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /talent_perfume_legend_amber.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /talent_perfume_legend_green.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 5 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 11 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 14 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /talent_perfume_combo_offer.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /talent_perfume_premium_combo.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 0 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 2 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /talent_perfume_packaging.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 5 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /talent_perfume_caramel_pop.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /talent_perfume_ultra_ad.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /talent_perfume_legend_ad.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /talent_perfume_malayalam_spray.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /talent_perfume_kalabham_ad.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 3 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 4 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 3 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 4 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 10 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /talent_perfume_ultra_blue.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 8 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /talent_perfume_ultra_red.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 7 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /talent_perfume_seduction.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /talent_perfume_men_collection.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /jinus_learning_book_performance.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /brainster_studio_ad.png
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 2 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 5 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 6 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /god_of_detailing_mud_ad.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 7 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 5 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /god_of_detailing_wash_ad.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /pro_glaze_car_ad.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /pro_glaze_logo.png
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 11 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 6 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /right_properties_dream_home.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /right_properties_mediterranean.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /right_properties_luxe_homes.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 12 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 12 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 10 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /right_properties_logo.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 15 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /right_properties_family.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 GET /la_florale_fusion.jpg
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 13 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 5 ms
+ HTTP  29/6/2026 9:09:29 pm ::1 Returned 304 in 3 ms
